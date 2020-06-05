@@ -42,4 +42,7 @@ Use -h to get full help or, even better, run 'man ffmpeg'
 
 ### IFlyTek API
 
-Sign in [Iflytek](  https://www.xfyun.cn/  ) , go to console (upper right) and create a new APP instance of "语音听写（流式版）". Here you can set your language configuration for dictation.
+Sign in [Iflytek](  https://www.xfyun.cn/  ) , go to console (upper right) and create a new APP instance of "语音听写（流式版）". Here you can set your language configuration for later dictation.
+
+![](sources/iFlyTek_console.png)
+
