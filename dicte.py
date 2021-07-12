@@ -34,11 +34,11 @@ import websocket
 
 import _thread as thread
 
-APPID      = ''
-APIKEY     = ''
-APISECRET  = ''
-STREAMPATH = r''
-LANGUAGE   = '' # zh_cn, en_us, fr_fr
+APPID      = '5ed70bb6'
+APIKEY     = '52eaabd1ae9eceeb2e924ef961cc5270'
+APISECRET  = 'acc594bbdd6b600eb9442483e8d77b2f'
+STREAMPATH = r'french_audio_example.mp3'
+LANGUAGE   = 'fr_fr' # zh_cn, en_us, fr_fr
 
 
 
